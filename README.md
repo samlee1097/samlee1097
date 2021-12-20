@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/samlee1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samlee1097" height="30" width="40" /></a>
 <a href="https://medium.com/@samlee1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samlee1097" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thevoicelessmind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoicelessmind" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCkP6LeBPzMzCR4Kam1RiMhA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoicelessmind" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samlee1097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samlee1097" height="30" width="40" /></a>
 </p>
 
