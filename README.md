@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1UrL3RDdBaISoIB0OJhxhnmtRb3gzuj-9/edit?usp=sharing&ouid=102667700493850848414&rtpof=true&sd=true](https://docs.google.com/document/d/1UrL3RDdBaISoIB0OJhxhnmtRb3gzuj-9/edit?usp=sharing&ouid=102667700493850848414&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I studied abroad in Singapore in 2018**
+- ⚡ Fun fact **I studied abroad in Singapore in 2018 and make YouTube vidoes as a hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
