@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@samlee1097](https://medium.com/@samlee1097)
 
-- 💬 Ask me about **react, rails, javascript**
+- 💬 Ask me about **React, Rails, Javascript**
 
 - 📫 How to reach me **samuel97lee@gmail.com**
 
