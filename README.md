@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Lee</h1>
+<h1 align="center">Hi 👋, I'm Samuel Lee</h1> 
 <h3 align="center">A passionate full stack developer located in Farifax, VA</h3>
 
 - 👨‍💻 All of my projects are available at [https://sam-lee.netlify.app/](https://sam-lee.netlify.app/)
