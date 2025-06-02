@@ -7,7 +7,7 @@
 - 🧠 Writing about tech, wellness, and personal growth on [Medium](https://medium.com/@samlee1097)
 - 📹 Sharing thoughts & creative content on [YouTube](https://www.youtube.com/channel/UCkP6LeBPzMzCR4Kam1RiMhA/)
 - 🧰 Skilled in **React**, **Rails**, **AWS**, **Python**, **Swift**, **Firebase**, and **Cloud Architecture**
-- 📄 [View my resume](https://docs.google.com/document/d/1UrL3RDdBaISoIB0OJhxhnmtRb3gzuj-9/edit?usp=sharing)
+- 📄 [View my resume](https://drive.google.com/file/d/1TNL_1ZN1fZTOKbA22OxExdNgTA9nEGl7/view?usp=drivesdk)
 - 📬 Reach me at **samuel97lee@gmail.com**
 
 ---
